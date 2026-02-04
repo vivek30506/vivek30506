@@ -2,7 +2,7 @@
 
 
 
-<h2 align="left">Hi 👋! My name is vivek singH and I'm a font developer from India</h2>
+<h2 align="left">Hi 👋! My name is vivek singh and I'm a font developer from India</h2>
 
 ###
 - 🌱 I’m currently learning *web development*
@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vivek30506/vivek30506/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/vivek30506/vivek30506/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
