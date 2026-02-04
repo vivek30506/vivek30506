@@ -1,11 +1,19 @@
-<h2 align="left">Hi 👋! My name is vivek singH and I'm a font developer from India</h2>
 
-###
+
 - 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **viveksingh34690@gmail.com**
 
 - ⚡ Fun fact **I enjoy turning idea into code*
+
+<h2 align="left">Hi 👋! My name is vivek singH and I'm a font developer from India</h2>
+
+###
+- 🌱 I’m currently learning *web development*
+
+- 📫 How to reach me *viveksingh34690@gmail.com*
+
+- ⚡ Fun fact *I enjoy turning idea into code*
 
 <img align="right" height="150" src="https://sukuna.co.uk/wp-content/uploads/2024/07/sukuna-anime-scaled.webp"  />
 
@@ -37,7 +45,11 @@
 
 ###
 
-*
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/vivek30506/vivek30506/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
