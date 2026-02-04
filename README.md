@@ -1,10 +1,6 @@
 
 
-- 🌱 I’m currently learning **web development**
 
-- 📫 How to reach me **viveksingh34690@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning idea into code*
 
 <h2 align="left">Hi 👋! My name is vivek singH and I'm a font developer from India</h2>
 
